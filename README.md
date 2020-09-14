@@ -2,6 +2,7 @@
 
 ## Activities
 
+* Virtual mingle
 * [Kahoot](https://create.kahoot.it/kahoots/my-kahoots)
 * [Polish Poker](http://playingcards.io/grk9rm)
 * [Midnight Express][midnight-express] escape game
