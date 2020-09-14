@@ -2,10 +2,11 @@
 
 ## Activities
 
+* Be sure to sign [Mark's card](https://www.groupgreeting.com/sign/2f4866fa51b9672)
 * Virtual mingle
 * [Kahoot](https://create.kahoot.it/kahoots/my-kahoots)
-* [Polish Poker](http://playingcards.io/grk9rm)
 * [Midnight Express][midnight-express] escape game
+* [Polish Poker](http://playingcards.io/grk9rm) tournament
 
 [midnight-express]: https://escape-the-crate.com/traintrack
 
