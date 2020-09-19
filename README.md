@@ -2,7 +2,7 @@
 
 ## Activities
 
-* [Mark's card](https://www.groupgreeting.com/sign/2f4866fa51b9672
+* [Mark's card](https://www.groupgreeting.com/sign/2f4866fa51b9672)
 * Virtual mingle
 * [Kahoot](https://create.kahoot.it/kahoots/my-kahoots)
 * [Midnight Express][midnight-express] escape game
